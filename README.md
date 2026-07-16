@@ -12,6 +12,10 @@ e gera gráficos de energia e distância de Hamming.
 - NumPy
 - Matplotlib
 
+## Licença
+
+Este projeto está disponível sob a Licença MIT. Consulte o arquivo LICENSE.
+
 ## Instalação
 
 Clone o repositório:
@@ -20,6 +24,3 @@ Clone o repositório:
 git clone https://github.com/SEU-USUARIO/rede-hopfield-aex.git
 cd rede-hopfield-aex
 
-## Licença
-
-Este projeto está disponível sob a Licença MIT. Consulte o arquivo LICENSE.
