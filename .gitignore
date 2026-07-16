@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações do Spyder
+.spyproject/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Imagens geradas
+outputs/*.png
